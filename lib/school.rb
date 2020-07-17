@@ -1,7 +1,7 @@
 
- def school=(school)
+def school=(school)
    @school = school
- end
+end
 
 def school= school
   @school = school
